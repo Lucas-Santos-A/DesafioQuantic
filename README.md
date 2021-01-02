@@ -29,6 +29,8 @@ O projeto foi desenvolvido utilizando as as seguintes tecnologias.
 ```bash
 $ git clone https://github.com/Lucas-Santos-A/DesafioQuantic
 
+$ cd DesafioQuantic
+
 $ mvn spring-boot:run
 
 #O projeto será executado e as informações irão aparecer no console.
